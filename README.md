@@ -11,7 +11,8 @@
 2. 修改 `config.py` 文件中的配置信息。
 3. 运行 `main.py`：
    ```bash
-   python main.py
+   python3 main.py
+
    ```
 
 ## 配置说明
